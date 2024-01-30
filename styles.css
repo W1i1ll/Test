@@ -5,3 +5,9 @@ h1 {
     color: white;
     word-spacing: 50%;
 }
+p {
+    color:azure
+}
+*{
+    box-sizing: border-box;
+}
